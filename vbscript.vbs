@@ -1,1 +1,1 @@
-WScript.Echo "new2"
+WScript.Quit
