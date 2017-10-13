@@ -1,1 +1,1 @@
-WScript.Echo "new"
+WScript.Echo "new2"
