@@ -1,1 +1,1 @@
-WScript.Echo "Hello World! test"
+WScript.Echo "updated"
